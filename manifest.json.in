@@ -1,0 +1,10 @@
+{
+  "type": "preload-native",
+  "name": "DH Bedrock Probe",
+  "author": "DH Bedrock Project",
+  "version": "@MOD_VERSION@",
+  "entry": "libdh_bedrock_probe.so",
+  "minecraft_versions": [],
+  "overwrite_files": [],
+  "overwrite_folders": []
+}
